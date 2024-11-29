@@ -1,4 +1,4 @@
-name = "xl-vidio-hendri" # todo
+name = "sg-ray" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -15,4 +15,4 @@ routes = [
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "57705c93-a90c-481a-ac05-05203ccc0cd3"
+UUID = "976a0a40-e371-4c18-b484-204b73f93df7"
